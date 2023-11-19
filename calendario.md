@@ -5,4 +5,4 @@ description: Página voltada para a exibição do calendário acadêmico do câm
 nav_order: 5
 ---
 
-<iframe src="/assets/pdfs/calendario.pdf" style="width:735px; height:660px;" frameborder="0" allowfullscreen></iframe>
+<iframe src="//assets/pdfs/calendario.pdf" style="width:735px; height:660px;" frameborder="0" allowfullscreen></iframe>
