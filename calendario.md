@@ -5,4 +5,4 @@ description: Página voltada para a exibição do calendário acadêmico do câm
 nav_order: 5
 ---
 
-<iframe src="https://docs.google.com/viewer?url=https://www.muz.ifsuldeminas.edu.br/images/2022/12/PDF/277_com_anexo.pdf&embedded=true" style="width:750px; height:680px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://www.muz.ifsuldeminas.edu.br/images/2022/12/PDF/277_com_anexo.pdf&embedded=true" style="width:745px; height:680px;" frameborder="0"></iframe>
