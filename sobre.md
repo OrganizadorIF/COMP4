@@ -3,6 +3,7 @@ layout: page
 title: Sobre
 description: >-
     Informações sobre gerais sobre o site.
+nav_order: 7
 ---
 
 <h1 align="center"> <span style='font-weight: bold;'>Sobre</span></h1>
