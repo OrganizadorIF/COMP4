@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Announcements
-nav_exclude: true
-description: A feed containing all of the class announcements.
+title: Notícias
+description: Página voltada para divulgação de notícias e avisos relacionados ao curso.
+nav_order: 1
 ---
 
-# Announcements
-
-Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`.
+<h1 align="center"> <span style='font-weight: bold;'>Notícias</span> </h1>
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
