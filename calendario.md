@@ -2,7 +2,7 @@
 layout: page
 title: Calendário
 description: Página voltada para a exibição do calendário acadêmico do câmpus.
-nav_order: 5
+nav_order: 6
 ---
 
 <iframe src="https://organizadorif.github.io/COMP4/assets/pdfs/calendario.pdf" style="width:735px; height:660px;" frameborder="0" allowfullscreen></iframe>
