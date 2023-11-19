@@ -5,4 +5,4 @@ description: Página voltada para a exibição do calendário acadêmico do câm
 nav_order: 5
 ---
 
-<iframe src="https://github.com/OrganizadorIF/COMP4/blob/main/calendario.pdf" style="width:735px; height:660px;" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://github.com/OrganizadorIF/COMP4/blob/main/calendario.pdf&embedded=true" style="width:735px; height:660px;" frameborder="0"></iframe>
