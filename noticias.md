@@ -1,6 +1,6 @@
 ---
 layout: page
-title: noticias
+title: Notícias
 description: Página voltada para divulgação de notícias e avisos relacionados ao curso.
 nav_order: 1
 ---
