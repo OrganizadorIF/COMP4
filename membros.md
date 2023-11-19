@@ -2,7 +2,7 @@
 layout: page
 title: Membros
 description: Uma lista de todos os membros relacionados ao curso.
-nav_order: 5
+nav_order: 6
 ---
 
 <h1 align="center"> <span style='font-weight: bold;'> Membros </span> </h1>
