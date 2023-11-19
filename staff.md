@@ -1,24 +1,23 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: Membros
+description: Uma lista de todos os membros relacionados ao curso.
 ---
 
-# Staff
+<h1 align="center"> <span style='font-weight: bold;'> Membros </span> </h1>
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+## Coordenadores
 
-## Instructors
-
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers | where: 'role', 'Coordenador' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'Professor' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+
+## Professores
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
