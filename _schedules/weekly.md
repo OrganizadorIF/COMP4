@@ -22,7 +22,7 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina1
+        tipo: disciplina2
       - name: Engenharia de Software I
         start: 8:00 PM
         end: 9:00 PM
