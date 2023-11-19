@@ -7,7 +7,7 @@ nav_order: 1
 
 <h1 align="center"> <span style='font-weight: bold;'>Notícias</span> </h1>
 
-{% assign announcements = site.noticias | reverse %}
+{% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
