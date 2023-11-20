@@ -34,8 +34,10 @@ aux_links:
     - 'https://presencial.muz.ifsuldeminas.edu.br/'
   SUAP:
     - 'https://suap.ifsuldeminas.edu.br/accounts/login/'
-  Portal do IFSULDEMINAS:
+  IFSULDEMINAS:
     - 'https://portal.ifsuldeminas.edu.br/'
+  IF Muzambinho:
+    - 'https://www.muz.ifsuldeminas.edu.br/'
 
 # Collections for website data
 collections:
