@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contato
-description: Uma lista de todos os membros relacionados ao curso.
+title: Contatos
+description: Uma lista de todos os contatos relacionados ao curso.
 nav_order: 6
 ---
 
-<h1 align="center"><span style='font-weight: bold;'>Membros</span></h1>
+<h1 align="center"><span style='font-weight: bold;'>Contatos</span></h1>
 
 ## Coordenadores
 
