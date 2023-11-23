@@ -19,7 +19,7 @@ title: Atividades
 : > Implemente e explique o algoritmo Twice-Around apresentado em aula. Aplique ele no exemplo do vídeo e pelo menos em mais um exemplo qualquer.
 : > <details><summary>Ver mais detalhes</summary><ul><li style="margin-top: 8px;">A entrega deve ser feita no formato de vídeo de criação de cada aluno que deve estar em um link do youtube.</li><li>O vídeo deve ter no mínimo 7 minutos e no máximo 15 minutos.</li><li><b>OBS:</b> Não tem a necessidade de colocar muitos enfeites na apresentação, o importante é ser claro nos conceitos e na explicação do código.</li></ul></details>
 
-**10/11**
-: **BDI**{: .label .label-purple } Lista de Exercícios - Operadores
-  : <span class="fs-3">[Prazo: 23:55](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398325){: .btn }</span>
-: > Utilizando o arquivo "[Operadores - Base de Dados.sql](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390403)" disponibilizado como base, resolver os exercícios referentes ao PDF "[Lista de Exercícios - Operadores](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390407)" (Enviar no formato .sql).
+**01/12**
+: **BDI**{: .label .label-purple } Projeto - Versão Final
+  : <span class="fs-3">[**Prazo:** 23:55 **|** **Valor:** 2 pontos](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=399147){: .btn }</span>
+: > Depois de concluída a modelagem, faça a criação do banco de dados e inicie a população de dados nessas tabelas, usando comandos DDL (para criar as tabelas) e comandos DML (para popular as tabelas). Depois, utilize comandos de dados para visualizar o conteúdo criado (SELECT). Por fim, salve também os comandos que utilizou para essa atividade em um arquivo de extensão .sql (Scripts).
