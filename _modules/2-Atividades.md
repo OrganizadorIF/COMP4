@@ -1,10 +1,12 @@
 ---
 title: Atividades
 ---
+
 <style>
   
 .content {
   padding-left: 20px;
+  margin-top: 8px;
   display: none;
 }
 
@@ -15,10 +17,10 @@ title: Atividades
   : <span class="fs-3">[**Prazo:** 23:55 **|** **Valor:** 0,8 pontos](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=384387){: .btn }</span>
 : <button class="collapsible">Ver detalhes</button>
     <div class="content">
-      <p>Implemente e explique o Algoritmo Twice-Around apresentado em aula. Aplique ele no exemplo do vídeo e pelo menos em mais um exemplo qualquer.</p>
-      <p>A entrega deve ser feita no formato de vídeo de criação de cada aluno que deve estar em um link do youtube.</p>
-      <p>O vídeo deve ter no mínimo 7 minutos e no máximo 15 minutos.</p>
-      <p>**OBS:** Não tem a necessidade de colocar muitos enfeites na apresentação, o importante é ser claro nos conceitos e na explicação do código.</p>
+      > Implemente e explique o Algoritmo Twice-Around apresentado em aula. Aplique ele no exemplo do vídeo e pelo menos em mais um exemplo qualquer.
+      > A entrega deve ser feita no formato de vídeo de criação de cada aluno que deve estar em um link do youtube.</p>
+      > O vídeo deve ter no mínimo 7 minutos e no máximo 15 minutos.
+      > **OBS:** Não tem a necessidade de colocar muitos enfeites na apresentação, o importante é ser claro nos conceitos e na explicação do código.
     </div>
 
 10/11
