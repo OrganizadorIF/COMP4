@@ -17,8 +17,7 @@ title: Atividades
     <li>Levante todos os rótulos presentes na página inicial somente.</li>
     <li>Após o levantamento dos rótulos ATUAIS, propor uma nova organização e rotulação OU a manutenção da organização e rotulação atual.</li>
     <li>Justificar a sua escolha.</li>
-  </ul>
-  </details>
+  </ul></details>
 
 **30/11**
 : **TG**{: .label .label-yellow } Implementação do algoritmo Twice-Around
