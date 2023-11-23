@@ -4,5 +4,4 @@ role: Professor
 email: ramon.silva@muz.ifsuldeminas.edu.br
 photo: avatar.jpg
 ---
-
 Interação Humano-Computador (EaD)
