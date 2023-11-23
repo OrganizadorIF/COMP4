@@ -2,7 +2,7 @@
 title: Atividades
 ---
 
-28/11
+**28/11**
 : **LP2**{: .label .label-blue } Questionário Final
   : <span class="fs-3">[**Prazo:** 23:59 **|** **Valor:** 1 ponto](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span>
 : > Resolver o questionário baseado nos últimos tópicos vistos em aula (Herança, Polimorfismo, Interfaces, Abstração e Tratamento de Exceções).
@@ -17,7 +17,7 @@ title: Atividades
 : **TG**{: .label .label-yellow } Implementação do algoritmo Twice-Around
   : <span class="fs-3">[**Prazo:** 23:55 **|** **Valor:** 0,8 pontos](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=384387){: .btn }</span>
 : > Implemente e explique o algoritmo Twice-Around apresentado em aula. Aplique ele no exemplo do vídeo e pelo menos em mais um exemplo qualquer.
-: > <details><summary>Ver mais detalhes</summary><ul><li style="margin-top: 8px;">A entrega deve ser feita no formato de vídeo de criação de cada aluno que deve estar em um link do youtube.</li><li>O vídeo deve ter no mínimo 7 minutos e no máximo 15 minutos.</li><li>**OBS:** Não tem a necessidade de colocar muitos enfeites na apresentação, o importante é ser claro nos conceitos e na explicação do código.</li></ul></details>
+: > <details><summary>Ver mais detalhes</summary><ul><li style="margin-top: 8px;">A entrega deve ser feita no formato de vídeo de criação de cada aluno que deve estar em um link do youtube.</li><li>O vídeo deve ter no mínimo 7 minutos e no máximo 15 minutos.</li><li><b>OBS:</b> Não tem a necessidade de colocar muitos enfeites na apresentação, o importante é ser claro nos conceitos e na explicação do código.</li></ul></details>
 
 **10/11**
 : **BDI**{: .label .label-purple } Lista de Exercícios - Operadores
