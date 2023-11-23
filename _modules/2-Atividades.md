@@ -11,7 +11,7 @@ title: Atividades
 : **TG**{: .label .label-pink } Revisão de sistema de categorização e rotulação do Portal Institucional
   : <span class="fs-3">[**Prazo:** 23:59 **|** **Formativa**](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398665){: .btn }</span>
 : > Revisar e reorganizar a arquitetura da informação (rotulação e classificação de rótulos) do Portal Institucional do IFSULDEMINAS.
-: > <details markdown="block"><summary>Ver mais detalhes</summary>
+: > <details><summary>Ver mais detalhes</summary>
   <ul>
     <li>Acesse o Portal institucional do <a href = "https://portal.ifsuldeminas.edu.br/index.php">IFSULDEMINAS.</a></li>
     <li>Levante todos os rótulos presentes na página inicial somente.</li>
