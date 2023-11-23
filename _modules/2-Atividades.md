@@ -3,7 +3,7 @@ title: Atividades
 ---
 
 28/11
-: **LP2**{: .label .label-blue } [Questionário Final](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398661)
+: **LP2**{: .label .label-blue } Questionário Final
   : <span class="fs-3">[**Prazo:** 23:59 **|** **Valor:** 1 ponto](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span>
 : > Resolver o questionário baseado nos últimos tópicos vistos em aula (Herança, Polimorfismo, Interfaces, Abstração e Tratamento de Exceções).
 
@@ -12,15 +12,12 @@ title: Atividades
   : <span class="fs-3">[**Prazo:** 23:59 **|** **Tarefa Formativa**](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398665){: .btn }</span>
 : > Revisar e reorganizar a arquitetura da informação (rotulação e classificação de rótulos) do Portal Institucional do IFSULDEMINAS.
 : > <details>
-
 <summary>Ver mais detalhes</summary>
-
 - Acesse o Portal institucional do IFSULDEMINAS (https://portal.ifsuldeminas.edu.br/index.php)
 - Levante todos os rótulos presentes na página inicial somente. 
 - Organize-os e classifique-os assim como estão atualmente no Portal (mapa do site)
 - Após o levantamento dos rótulos ATUAIS, propor uma nova organização e rotulação OU a manutenção da organização e rotulação atual. 
 - Justificar a sua escolha
-
 </details>
 
 **30/11**
