@@ -11,12 +11,17 @@ title: Atividades
 : **TG**{: .label .label-pink } Revisão de sistema de categorização e rotulação do Portal Institucional
   : <span class="fs-3">[**Prazo:** 23:59 **|** **Tarefa Formativa**](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398665){: .btn }</span>
 : > Revisar e reorganizar a arquitetura da informação (rotulação e classificação de rótulos) do Portal Institucional do IFSULDEMINAS.
-: <details><summary>Ver mais detalhes</summary>
-Acesse o Portal institucional do IFSULDEMINAS (https://portal.ifsuldeminas.edu.br/index.php)
-Levante todos os rótulos presentes na página inicial somente. 
-Organize-os e classifique-os assim como estão atualmente no Portal (mapa do site)
-Após o levantamento dos rótulos ATUAIS, propor uma nova organização e rotulação OU a manutenção da organização e rotulação atual. 
-Justificar a sua escolha</details>
+: > <details>
+
+<summary>Ver mais detalhes</summary>
+
+- Acesse o Portal institucional do IFSULDEMINAS (https://portal.ifsuldeminas.edu.br/index.php)
+- Levante todos os rótulos presentes na página inicial somente. 
+- Organize-os e classifique-os assim como estão atualmente no Portal (mapa do site)
+- Após o levantamento dos rótulos ATUAIS, propor uma nova organização e rotulação OU a manutenção da organização e rotulação atual. 
+- Justificar a sua escolha
+
+</details>
 
 **30/11**
 : **TG**{: .label .label-yellow } Implementação do algoritmo Twice-Around
