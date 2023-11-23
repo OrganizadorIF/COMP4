@@ -2,9 +2,9 @@
 title: Atividades
 ---
 
-10/11
-: **BDI**{: .label .label-purple } [Modelagem de Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313)
-  : <span class="fs-3">[Prazo: 23:55](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=390313){: .btn }</span>
+**30/11**
+: **TG**{: .label .label-yellow } Implementação do algoritmo Twice-Around
+  : <span class="fs-3">[Prazo: 23:55 | Valor: 0,8 pontos](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=384387){: .btn }</span>
 : > Elaborar a modelagem referente ao PDF "[Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390311)" no MySQL Workbench (Enviar no formato .sql ou .mwb).
 
 10/11
