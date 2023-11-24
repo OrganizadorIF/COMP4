@@ -41,8 +41,10 @@ nav_order: 1
    - [Vídeo Aula 01 - Modelos de Dados](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390274)
    - [Vídeo Aula 02 - Modelo Entidade Relacionamento](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390275)
    - [Vídeo Aula 03 - Cardinalidade e Relacionamento](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390302)
-   - []()
-   - []()
+   - [Vídeo - Modelagem de Dados - Normalização e Anomalias - Conceitos](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390317)
+   - [Vídeo - Modelagem de Dados - Normalização - Primeira Forma Normal](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390318)
+   - [Vídeo - Modelagem de Dados - Normalização - Segunda Forma Norma](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390319)
+   - [Vídeo - Modelagem de Dados - Normalização - Terceira Forma Norma](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390320)
 
 **PDFs/Slides:**
    - [Arquivo - Aula 1.2 Fundamentos Modelagem - GERAL](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390276)
@@ -53,6 +55,7 @@ nav_order: 1
 **Complementares:**
    - [Vídeo Aula - Download e Instalação MySQL e Workbench - Windows 10](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390279)
    - [Vídeo Aula - Download e Instalação MySQL e Workbench - Windows 7](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390280)
+   - [Artigo: Normalização em Bancos de Dados]()
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Atividades</span></h2>
   
@@ -60,6 +63,7 @@ nav_order: 1
   - [Atividade Prática - Modelagem Cozinheiro](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390286)
   - [Atividade Prática - Modelagem Imobiliária](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390295)
   - [Atividade Prática - Modelagem Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390311)
+  - [Lista de Exercícios - Operadores](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390407)
 
 <h2 style="color: black;  margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Colab</span></h2>
 
