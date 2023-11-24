@@ -8,7 +8,7 @@ seo:
   name: Organizador do IF
 ---
 
-<img src="https://github.com/OrganizadorIF/COMP4/blob/main/assets/images/ifmuzlogo.png" alt="Logo IF Muzambinho">
+<img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/ifmuzlogo.png" alt="Logo IF Muzambinho">
 
 <h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
 <h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
