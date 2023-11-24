@@ -23,7 +23,7 @@ nav_order: 4
 
 Exemplo (Java):
 
-```j
+```java
 public class Veiculo { 
    public String modelo; 
    public String marca;
