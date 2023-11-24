@@ -13,7 +13,7 @@ seo:
 
 {:.no_toc}
 
-# Tópicos
+## Tópicos
 {: .no_toc .text-delta }
 
 1. TOC
@@ -38,7 +38,7 @@ O site é dividido em seções diferentes:
 - "**PPC**":
 - "**Feedback**":
 
-# <center>Projeto</center>
+# <div align="center">Projeto</div>
 
 O site **Organizador do IF** foi desenvolvido como parte da disciplina "Educação Empreendedora e Inovação IV" no 4º período do curso "Ciência da Computação".
 
