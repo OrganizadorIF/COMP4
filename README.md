@@ -21,11 +21,11 @@ seo:
 
 ---
 
-## <span align="center">Sobre</span>
+## <div align="center">Sobre</div>
 
 O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
 
-## Seções
+## <center>Seções</center>
 
 O site é dividido em seções diferentes:
 
@@ -37,9 +37,9 @@ O site é dividido em seções diferentes:
 
 O site **Organizador do IF** foi desenvolvido como parte da disciplina "Educação Empreendedora e Inovação IV" no 4º período do curso "Ciência da Computação".
 
-Orientador: Paulo César dos Santos
+**Orientador:** Paulo César dos Santos
 
-Integrantes do grupo:
+**Integrantes do grupo:**
 
 - Erik Bolonha Abdala
 - João Paulo Lúcio Aparecido
