@@ -50,29 +50,32 @@ public class Moto extends Veiculo {
 }
 </style>
 
-<button type="button" name="button" class="collapsible btn">Exemplo de Interface (Java):</button>
-<div class="content"><div class="content" style = "margin-left: 50px;">
-```java
-// Definição da interface
-interface Animal {
-    void fazerSom();
-}
-
-// Implementação da interface em uma classe
-class Cachorro implements Animal {
-    public void fazerSom() {
-        System.out.println("Au au!");
-    }
-}
-
-// Usando a interface
-public class ExemploInterface {
-    public static void main(String[] args) {
-        Animal meuAnimal = new Cachorro();
-        meuAnimal.fazerSom(); // Saída: "Au au!"
-    }
-}
-```</div></div>
+<button type="button" name="button" class="btn">Exemplo de Interface (Java):</button>
+<div class="content">
+   <div class="content" style = "margin-left: 50px;">
+      ```java
+      // Definição da interface
+      interface Animal {
+          void fazerSom();
+      }
+      
+      // Implementação da interface em uma classe
+      class Cachorro implements Animal {
+          public void fazerSom() {
+              System.out.println("Au au!");
+          }
+      }
+      
+      // Usando a interface
+      public class ExemploInterface {
+          public static void main(String[] args) {
+              Animal meuAnimal = new Cachorro();
+              meuAnimal.fazerSom(); // Saída: "Au au!"
+          }
+      }
+      ```
+   </div>
+</div>
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Polimorfismo:</b> Conceito que permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma classe comum, podendo responder de forma distinta a chamadas de métodos iguais. Isso é alcançado por meio de herança e interfaces.</div>
 
