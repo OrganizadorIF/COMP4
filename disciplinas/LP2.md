@@ -61,12 +61,12 @@ public class Moto extends Veiculo {
 }
 
 .content {
-  padding-left: 20px;
   display: none;
 }
+   
 </style>
 
-<button type="button" name="button" class="collapse">Exemplo de Interface (Java):</button>
+<button class="collapse">Exemplo de Interface (Java):</button>
 <div class="content">
    <div class="content" style = "margin-left: 50px;">
       
