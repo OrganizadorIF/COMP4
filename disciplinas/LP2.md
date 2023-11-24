@@ -44,16 +44,45 @@ public class Moto extends Veiculo {
 <div style="text-align: justify; margin-bottom: 20px;"><b>Interface:</b> São como contratos, definindo um conjunto de métodos que uma classe deve implementar se prometer seguir essa interface. Elas não contêm implementações de métodos, apenas suas assinaturas, oferecendo um padrão para comportamentos. Classes podem implementar múltiplas interfaces, permitindo a aplicação de comportamentos diferentes sem herança múltipla.</div>
 
 <style>
+
+.collapsible {
+  background-color: #cce6ff;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.collapsible:hover {
+  background-color: #99ceff;
+}
+
+.collapsible::before {
+  content: "\02795";
+  font-size: 13px;
+  position: relative;
+  margin-right: 10px;
+}
+
+.active::before {
+  content: "\02796";
+}
+
 .content {
   padding-left: 20px;
   display: none;
 }
 </style>
 
-<button type="button" name="button" class="btn">Exemplo de Interface (Java):</button>
+<button type="button" name="button" class="collapse">Exemplo de Interface (Java):</button>
 <div class="content">
    <div class="content" style = "margin-left: 50px;">
-      ```java
+      
       // Definição da interface
       interface Animal {
           void fazerSom();
@@ -73,7 +102,7 @@ public class Moto extends Veiculo {
               meuAnimal.fazerSom(); // Saída: "Au au!"
           }
       }
-      ```
+      
    </div>
 </div>
 
