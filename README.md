@@ -32,7 +32,7 @@ O site é dividido em seções diferentes:
 
 <h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Projeto</h2>
 
-<div style="text-align: justify">O <b>Organizador do IF</b> foi desenvolvido durante o <u>4º período</u> do curso "<b>Ciência da Computação</b>" como projeto da disciplina "<b>Educação Empreendedora e Inovação IV</b>", sendo baseado nos temas "<a href="https://kevinl.info/just-the-class/">Just the Class<a>" e "<a href="https://just-the-docs.com/">Just the Docs</a>".</div>  
+<div style="text-align: justify">O <b>Organizador do IF</b> foi desenvolvido durante o <u>4º período</u> do curso "<b>Ciência da Computação</b>" como projeto da disciplina "<b>Educação Empreendedora e Inovação IV</b>", sendo baseado nos temas "<a href="https://kevinl.info/just-the-class/">Just the Class</a>" e "<a href="https://just-the-docs.com/">Just the Docs</a>".</div>
 
 **Orientador:**  
   - Paulo César dos Santos
