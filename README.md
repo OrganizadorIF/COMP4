@@ -8,14 +8,14 @@ seo:
   name: Organizador do IF
 ---
 
-<h1 align="center"><a style='font-weight: bold;'>Olá!</a></h1>
-<h1 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h1>
+<h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
+<h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
 
-<h1 align="center" style="margin-bottom: 20px; font-weight: bold;">Sobre</h1>
+<h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Sobre</h2>
 
 O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
 
-<h1 align="center" style="margin-bottom: 20px; font-weight: bold;">Seções</h1>
+<h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Seções</h2>
 
 O site é dividido em seções diferentes:
 
@@ -28,14 +28,14 @@ O site é dividido em seções diferentes:
 - "**PPC**":
 - "**Feedback**":
 
-<h1 align="center" style="margin-bottom: 20px; font-weight: bold;">Projeto</h1>
+<h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Projeto</h2>
 
 O site **Organizador do IF** foi desenvolvido como parte da disciplina "**Educação Empreendedora e Inovação IV**" no 4º período do curso "**Ciência da Computação**".
 
-- **Orientador:**  
+**Orientador:**  
   - Paulo César dos Santos
 
-- **Integrantes do grupo:**
+**Integrantes do grupo:**
   - Erik Bolonha Abdala
   - João Paulo Lúcio Aparecido
   - Juan Grabriel Ozeas
