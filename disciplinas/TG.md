@@ -27,7 +27,7 @@ nav_order: 3
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Ciclo_em_um_grafo.png" alt="Exemplo de Grafo" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
 
-<h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Ávores</u></span></h3>
+<h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Árvores</u></span></h3>
 
 <div style="text-align: justify; margin-bottom: 10px;">Tipo especial de grafo sem ciclos, formado por vértices conectados de modo que exista um único caminho entre quaisquer dois vértices. Ela é um grafo conexo, ou seja, todos os vértices estão interligados, e não possui ciclos, o que significa que não há caminhos fechados. Além disso, uma árvore com n vértices sempre terá n−1 arestas. As árvores são fundamentais na modelagem de hierarquias, estruturas de dados como árvores binárias, algoritmos de busca e na resolução de problemas em diversas áreas, como computação, biologia, redes e otimização.</div>
 
