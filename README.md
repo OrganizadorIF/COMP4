@@ -38,7 +38,7 @@ O site é dividido em seções diferentes:
 - "**PPC**":
 - "**Feedback**":
 
-# <h1 align="center">Projeto</h1>
+# Projeto {style=text-align:center}
 
 O site **Organizador do IF** foi desenvolvido como parte da disciplina "Educação Empreendedora e Inovação IV" no 4º período do curso "Ciência da Computação".
 
