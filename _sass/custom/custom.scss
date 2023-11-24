@@ -56,3 +56,7 @@ summary {
     }
   }
 }
+
+.label-yellow:not(g) {
+  background-color: $yellow-200;
+}
