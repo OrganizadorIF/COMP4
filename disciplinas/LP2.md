@@ -45,19 +45,6 @@ public class Moto extends Veiculo {
 
 <style>
 
-.collapsible {
-  background-color: #cce6ff;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  margin-bottom: 10px;
-}
-
 .collapsible:hover {
   background-color: #99ceff;
 }
