@@ -21,9 +21,9 @@ nav_order: 4
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Herança:</b> Conceito que permite que uma classe (chamada de classe derivada ou subclasse) herde atributos e métodos de outra classe (chamada de classe base ou superclasse). Isso permite a criação de hierarquias e reutilização de código, onde a classe derivada pode estender ou modificar o comportamento da classe base, promovendo uma relação de especialização e generalização entre as classes.</div>
 
-Exemplo:
+Exemplo (Java):
 
-```js
+```j
 public class Veiculo { 
    public String modelo; 
    public String marca;
