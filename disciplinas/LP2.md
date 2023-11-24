@@ -43,7 +43,7 @@ public class Moto extends Veiculo {
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Interface:</b> São como contratos, definindo um conjunto de métodos que uma classe deve implementar se prometer seguir essa interface. Elas não contêm implementações de métodos, apenas suas assinaturas, oferecendo um padrão para comportamentos. Classes podem implementar múltiplas interfaces, permitindo a aplicação de comportamentos diferentes sem herança múltipla.</div>
 
-<details><summbary>Exemplo de Interface (Java):</summbary>
+<details><summary>Exemplo de Interface (Java):</summary>
 ```java
 // Definição da interface
 interface Animal {
