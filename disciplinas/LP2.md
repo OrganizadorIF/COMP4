@@ -5,19 +5,40 @@ parent: Disciplinas
 nav_order: 4
 ---
 
-<h1 align="center"> <span style='font-weight: bold;'>Linguagens de Programação II</span></h1>
+<h1 align="center"><span style='font-weight: bold;'>Linguagens de Programação II</span></h1>
 
-<h2 style="color: black;" align="center"> <span style='font-weight: bold;'>Professor(a):</span> Fernanda Maria Ribeiro</h2>
+<h2 style="color: black;" align="center"><span style='font-weight: bold;'>Professor(a):</span> Fernanda Maria Ribeiro</h2>
 
-<h2 style="color: black;" align="center"> <span style='font-weight: bold;'>Mapa Conceitual</span></h2>
+<h2 style="color: black;" align="center"><span style='font-weight: bold; margin-bottom: 20px;'>Mapa Conceitual</span></h2>
 
 ![](../../assets/images/mapalp2.png)
 
-<h2 style="color: black;"> <span style='font-weight: bold;'>Resumo</span></h2>
+<h2 style="color: black;"><span style='font-weight: bold; margin-bottom: 20px;'>Resumo</span></h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+<div style="text-align: justify; margin-bottom: 20px;">"Linguagens de Programação II", com foco em Java, aprofunda-se nos conceitos avançados dessa linguagem amplamente utilizada. Explora tópicos como herança, polimorfismo, interfaces, manipulação de exceções, programação concorrente com threads e coleções avançadas. Além disso, abrange a implementação de padrões de design orientados a objetos e o uso de ferramentas para otimização de código e desenvolvimento ágil. Este curso capacita os alunos a utilizar de forma avançada e eficiente os recursos oferecidos pela linguagem Java para solucionar problemas complexos na prática da programação.</div>
 
-<h2 style="color: black;"> <span style='font-weight: bold;'>Materiais de Estudo</span></h2>
+<h2 style="color: black;"><span style='font-weight: bold; margin-bottom: 20px;'>Conceitos Importantes</span></h2>
+
+<div style="text-align: justify; margin-bottom: 20px;"><b>Herança:</b> Conceito que permite que uma classe (chamada de classe derivada ou subclasse) herde atributos e métodos de outra classe (chamada de classe base ou superclasse). Isso permite a criação de hierarquias e reutilização de código, onde a classe derivada pode estender ou modificar o comportamento da classe base, promovendo uma relação de especialização e generalização entre as classes.</div>
+
+Exemplo:
+
+'''
+public class Veiculo { 
+   public String modelo; 
+   public String marca;
+}
+
+public class Carro extends Veiculo {
+   public String porta;
+}
+
+public class Moto extends Veiculo {
+   public int bau_carga;
+}
+'''
+
+<h2 style="color: black;"> <span style='font-weight: bold; margin-bottom: 20px;'>Materiais de Estudo</span></h2>
 
 - PDFs/Slides:
   - [Aula 1.0 - Apresentação](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=386342)
