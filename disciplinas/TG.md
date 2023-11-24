@@ -21,20 +21,19 @@ nav_order: 5
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'><u>Grafos</u></span></h3>
 
-<div style="text-align: justify; margin-bottom: 10px;">Conceito que permite que uma classe (chamada de classe derivada ou subclasse) herde atributos e métodos de outra classe (chamada de classe base ou superclasse). Isso permite a criação de hierarquias e reutilização de código, onde a classe derivada pode estender ou modificar o comportamento da classe base, promovendo uma relação de especialização e generalização entre as classes.</div>
+<div style="text-align: justify; margin-bottom: 10px;">Estrutura matemática que consiste em um conjunto de vértices (pontos ou nós) conectados por arestas (linhas ou conexões). Essa representação abstrata é utilizada para modelar relacionamentos entre entidades, onde os vértices representam os elementos e as arestas indicam as relações entre esses elementos. Os grafos podem ser direcionados (quando as arestas têm uma direção) ou não-direcionados (quando as conexões são bidirecionais), e podem incluir pesos para representar custos ou valores associados às conexões. Essa estrutura é fundamental para a resolução de problemas de otimização, redes, algoritmos de caminho e diversas outras aplicações computacionais.</div>
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Grafo</span></h3>
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/31/Ciclo_em_um_grafo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Ciclo_em_um_grafo.png" alt="Exemplo de Grafo" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
 
 <h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Ávores</u></span></h3>
 
-<div style="text-align: justify; margin-bottom: 10px;">São como contratos, definindo um conjunto de métodos que uma classe deve implementar se prometer seguir essa interface. Elas não contêm implementações de métodos, apenas suas assinaturas, oferecendo um padrão para comportamentos. Classes podem implementar múltiplas interfaces, permitindo a aplicação de comportamentos diferentes sem herança múltipla.</div>
+<div style="text-align: justify; margin-bottom: 10px;"> tipo especial de grafo sem ciclos, formado por vértices conectados de modo que exista um único caminho entre quaisquer dois vértices. Ela é um grafo conexo, ou seja, todos os vértices estão interligados, e não possui ciclos, o que significa que não há caminhos fechados. Além disso, uma árvore com n vértices sempre terá n−1 arestas. As árvores são fundamentais na modelagem de hierarquias, estruturas de dados como árvores binárias, algoritmos de busca e na resolução de problemas em diversas áreas, como computação, biologia, redes e otimização.</div>
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Árvore</span></h3>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tree_graph.svg/1200px-Tree_graph.svg.png)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tree_graph.svg/1200px-Tree_graph.svg.png" alt="Exemplo de Árvore" style="width: 60%; margin-left: auto; margin-right: auto; display: block;">
 
 <h2 style="color: black; margin-bottom: 20px; margin-top: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
 
