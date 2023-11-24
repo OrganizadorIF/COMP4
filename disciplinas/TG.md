@@ -37,27 +37,6 @@ nav_order: 3
 
 <h2 style="color: black; margin-bottom: 20px; margin-top: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
 
-**PDFs/Slides:**
-   - [Aula 01 – Introdução e Propriedades](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384273)
-   - [Aula 02 – Classes de Grafos](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384276)
-   - [Aula 03 – Passeios, trilhas e caminhos](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384279)
-   - [Aula 04 – Representações computacionais de grafos](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384292)
-   - [Aula 05 – Manipulação de Grafos com Python e Networx](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384294)
-   - [Aula 06 – Isomorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384297)
-   - [Aula 07 – Conectividade em Grafos e Métricas](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384299)
-   - [Aula 08 – Passeios em Grafos Conexos, Random Walks e Cadeias de Markov –Parte 01](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384310)
-   - [Aula 09 – Passeios em Grafos Conexos, Random Walks e Cadeias de Markov – Parte 02](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384312)
-   - [Aula 10 – Page Rank](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384316)
-   - [Aula 11 – Árvores](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384325)
-   - [Aula 12 – Árvores Spanning e código de Prüfer](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384327)
-   - [Aula 13 – Algoritmo de Kruskal](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384329)
-   - [Aula 15 - Busca em Largura](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384345)
-   - [Aula 16 – Busca em Largura – Algoritmo Backtracking](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384347)
-   - [Aula 17 – Busca em Profundidade](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384350)
-   - [Aula 18 – Ordenação Topológica](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384352)
-   - [Aula 19 - Algoritmo de Dijkstra](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384361)
-   - [Aula 21- Heurística AStar](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384364)
-  
 **Vídeos:**
    - [Aula 01 – Introdução e Propriedades](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384272)
    - [Aula 02 – Classes de Grafos](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384275)
@@ -78,6 +57,27 @@ nav_order: 3
    - [Aula 18 – Ordenação Topológica](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384353)
    - [Aula 19 - Algoritmo de Dijkstra](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384362)
    - [Aula 21- Heurística AStar](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384365)
+  
+**PDFs/Slides:**
+   - [Aula 01 – Introdução e Propriedades](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384273)
+   - [Aula 02 – Classes de Grafos](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384276)
+   - [Aula 03 – Passeios, trilhas e caminhos](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384279)
+   - [Aula 04 – Representações computacionais de grafos](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384292)
+   - [Aula 05 – Manipulação de Grafos com Python e Networx](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384294)
+   - [Aula 06 – Isomorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384297)
+   - [Aula 07 – Conectividade em Grafos e Métricas](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384299)
+   - [Aula 08 – Passeios em Grafos Conexos, Random Walks e Cadeias de Markov –Parte 01](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384310)
+   - [Aula 09 – Passeios em Grafos Conexos, Random Walks e Cadeias de Markov – Parte 02](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384312)
+   - [Aula 10 – Page Rank](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384316)
+   - [Aula 11 – Árvores](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384325)
+   - [Aula 12 – Árvores Spanning e código de Prüfer](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384327)
+   - [Aula 13 – Algoritmo de Kruskal](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384329)
+   - [Aula 15 - Busca em Largura](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384345)
+   - [Aula 16 – Busca em Largura – Algoritmo Backtracking](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384347)
+   - [Aula 17 – Busca em Profundidade](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384350)
+   - [Aula 18 – Ordenação Topológica](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384352)
+   - [Aula 19 - Algoritmo de Dijkstra](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384361)
+   - [Aula 21- Heurística AStar](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384364)
   
 **Complementares:**
   - [Jure Leskovec](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384274)
