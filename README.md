@@ -15,7 +15,7 @@ seo:
 
 <h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Sobre</h2>
 
-<div style="text-align: justify">O <b>Organizador do IF</b> se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização de estudo, já que terá um acesso mais prático e intuitivo às informações relacionadas ao seu curso. O princípio de funcionamento é que, para cada turma diferente, há uma versão única do Organizador, a qual contém as informações específicas de tal turma.</div>    
+<div style="text-align: justify">O <b>Organizador do IF</b> se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização de estudo, já que terá um acesso mais prático e intuitivo às informações relacionadas ao seu curso. O princípio de funcionamento é que, para cada turma diferente, há uma versão única do Organizador, a qual contém as informações específicas de tal turma.</div>
 
 <div style="text-align: justify; margin-top: 20px;"><u>Para visualizar outra versão</u> do Organizador, basta clicar no <i>card</i> contendo o nome do seu curso e período. Ou <a href="https://organizadorif.github.io/">clique aqui</a> para ser redirecionado.</div>
 
