@@ -10,8 +10,8 @@ seo:
 
 <img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/ifmuzlogo.png" alt="Logo IF Muzambinho" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
 
-<h1 align="center" style="margin-top: 10px;"><span style='font-weight: bold;'>Olá!</span></h1>
-<h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
+<h1 align="center" style="margin-top: 25px;"><span style='font-weight: bold;'>Olá!</span></h1>
+<h2 align="center" style="margin-bottom: 50px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
 
 <h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Sobre</h2>
 
@@ -32,7 +32,7 @@ O site é dividido em seções diferentes:
 
 <h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Projeto</h2>
 
-O site **Organizador do IF** foi desenvolvido como parte da disciplina "**Educação Empreendedora e Inovação IV**" no <u>4º período</u> do curso "**Ciência da Computação**".
+O site **Organizador do IF** foi desenvolvido como parte da disciplina "**Educação Empreendedora e Inovação IV**" do <u>4º período</u> do curso "**Ciência da Computação**", sendo baseado nos projetos "Just The Class" e "Just The Docs".
 
 **Orientador:**  
   - Paulo César dos Santos
