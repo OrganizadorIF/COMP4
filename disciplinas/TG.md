@@ -11,7 +11,7 @@ nav_order: 5
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Mapa Conceitual</span></h2>
 
-![](../../assets/images/mapalp2.png)
+<img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/mapagrafos.png" alt="Mapa Conceitual" style="width: 70%; margin-left: auto; margin-right: auto; display: block;">
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Resumo</span></h2>
 
