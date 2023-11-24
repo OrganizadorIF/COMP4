@@ -15,17 +15,17 @@ nav_order: 1
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Resumo</span></h2>
 
-<div style="text-align: justify; margin-bottom: 20px;">"Teoria dos Grafos" é uma disciplina fundamental na Ciência da Computação que estuda as propriedades, representações e algoritmos relacionados a estruturas gráficas. Grafos são representações abstratas de conexões entre entidades, compostos por vértices (ou nós) conectados por arestas (ou conexões). Essa disciplina explora conceitos como tipos de grafos (dirigidos, não-direcionados, ponderados), algoritmos de busca (como busca em largura e busca em profundidade), algoritmos de caminho mínimo, algoritmos de árvore geradora mínima (como algoritmo de Prim e algoritmo de Kruskal), entre outros. A Teoria dos Grafos é amplamente aplicada em áreas como redes de computadores, análise de algoritmos, modelagem de sistemas, planejamento de rotas, e diversas outras áreas onde a relação entre elementos pode ser representada por meio de conexões.</div>
+<div style="text-align: justify; margin-bottom: 20px;">"Banco de Dados I" no curso de Ciência da Computação aborda os conceitos essenciais dos bancos de dados, com destaque para o modelo relacional e a utilização prática de sistemas de gerenciamento de banco de dados (SGBD), como o MySQL. Os tópicos incluem modelagem de dados, normalização, linguagem SQL para consulta e manipulação de dados, além do projeto e implementação de bancos de dados utilizando o MySQL. Os estudantes exploram a criação de tabelas, consultas complexas, operações de junção, otimização de consultas e aplicação de técnicas de segurança e integridade dos dados, sendo uma base crucial para a gestão eficiente de informações em sistemas baseados em bancos de dados relacionais.</div>
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Conceitos Importantes</span></h2>
 
-<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'><u>Grafos</u></span></h3>
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'><u>Modelo Entidade Relacionamento</u></span></h3>
 
-<div style="text-align: justify; margin-bottom: 10px;">Estrutura matemática que consiste em um conjunto de vértices (pontos ou nós) conectados por arestas (linhas ou conexões). Essa representação abstrata é utilizada para modelar relacionamentos entre entidades, onde os vértices representam os elementos e as arestas indicam as relações entre esses elementos. Os grafos podem ser direcionados (quando as arestas têm uma direção) ou não-direcionados (quando as conexões são bidirecionais), e podem incluir pesos para representar custos ou valores associados às conexões. Essa estrutura é fundamental para a resolução de problemas de otimização, redes, algoritmos de caminho e diversas outras aplicações computacionais.</div>
+<div style="text-align: justify; margin-bottom: 10px;">O Modelo Entidade-Relacionamento (MER) é uma abordagem visual para representar e descrever o esquema de um banco de dados. Ele utiliza entidades para representar objetos do mundo real e seus atributos, além de relacionamentos para mostrar como essas entidades se conectam. Nesse modelo, entidades são representadas por retângulos e os relacionamentos entre elas são indicados por linhas, evidenciando a maneira como estão conectadas e como interagem. O MER é uma ferramenta fundamental no processo de projeto de banco de dados, pois facilita a compreensão e a organização das informações que serão armazenadas e gerenciadas pelo sistema.</div>
 
-<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Grafo</span></h3>
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Modelo ER</span></h3>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Ciclo_em_um_grafo.png" alt="Exemplo de Grafo" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
+<img src="https://media.licdn.com/dms/image/C4D12AQEuyrWsUpOYCg/article-cover_image-shrink_600_2000/0/1535637196895?e=2147483647&v=beta&t=_fyL46_vjfRfAg4m5wGQDB1AD7CmFBso8TcL0qAXEgM" alt="Exemplo de Grafo" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
 
 <h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Ávores</u></span></h3>
 
