@@ -21,7 +21,7 @@ nav_order: 4
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'><u>Herança</u></span></h3>
 
-<div style="text-align: justify; margin-bottom: 20px;"><b>Herança:</b> Conceito que permite que uma classe (chamada de classe derivada ou subclasse) herde atributos e métodos de outra classe (chamada de classe base ou superclasse). Isso permite a criação de hierarquias e reutilização de código, onde a classe derivada pode estender ou modificar o comportamento da classe base, promovendo uma relação de especialização e generalização entre as classes.</div>
+<div style="text-align: justify; margin-bottom: 10px;">Conceito que permite que uma classe (chamada de classe derivada ou subclasse) herde atributos e métodos de outra classe (chamada de classe base ou superclasse). Isso permite a criação de hierarquias e reutilização de código, onde a classe derivada pode estender ou modificar o comportamento da classe base, promovendo uma relação de especialização e generalização entre as classes.</div>
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Herança (Java)</span></h3>
 
@@ -43,9 +43,11 @@ public class Moto extends Veiculo {
 }
 ```
 
-<div style="text-align: justify; margin-bottom: 20px;"><b>Interface:</b> São como contratos, definindo um conjunto de métodos que uma classe deve implementar se prometer seguir essa interface. Elas não contêm implementações de métodos, apenas suas assinaturas, oferecendo um padrão para comportamentos. Classes podem implementar múltiplas interfaces, permitindo a aplicação de comportamentos diferentes sem herança múltipla.</div>
+<h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Interface</u></span></h3>
 
-Exemplo de Interface (Java):
+<div style="text-align: justify; margin-bottom: 10px;">São como contratos, definindo um conjunto de métodos que uma classe deve implementar se prometer seguir essa interface. Elas não contêm implementações de métodos, apenas suas assinaturas, oferecendo um padrão para comportamentos. Classes podem implementar múltiplas interfaces, permitindo a aplicação de comportamentos diferentes sem herança múltipla.</div>
+
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Interface (Java)</span></h3>
 
 ```java
 // Definição da interface
@@ -69,7 +71,11 @@ public class ExemploInterface {
 }
 ```
 
-<div style="text-align: justify; margin-bottom: 20px;"><b>Polimorfismo:</b> Conceito que permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma classe comum, podendo responder de forma distinta a chamadas de métodos iguais. Isso é alcançado por meio de herança e interfaces.</div>
+<h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Polimorfismo</u></span></h3>
+
+<div style="text-align: justify; margin-bottom: 10px;">Conceito que permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma classe comum, podendo responder de forma distinta a chamadas de métodos iguais. Isso é alcançado por meio de herança e interfaces.</div>
+
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Polimorfismo (Java)</span></h3>
 
 ```java
 // Definição de uma classe base comum
@@ -105,34 +111,34 @@ public class ExemploPolimorfismo {
 }
 ```
 
-<h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
+<h2 style="color: black; margin-bottom: 20px; margin-top: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
 
-- **PDFs/Slides:**
-  - [Aula 1.0 - Apresentação](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=386342)
-  - [Aula 2.0 - POO](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391983)
-  - [Aula 3.0 - Herança](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391984)
-  - [Aula 3.1- Herança/UML](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391985)
-  - [Aula 3.2 - JAVA](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=393705)
-  - [Aula 3.3 - Python](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=394855)
-  - [Aula 4.0 - Composição](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=394856)
-  - [Aula 5.0 - Polimorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=397733)
-  - [Aula 6.0 - Classes Abstratas](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398220)
-  - [Aula 7.0 - Interfaces](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398683)
-  - [Aula 8.0 - Tratamento Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398682)
-
-- **Vídeos:**
+**PDFs/Slides:**
+   - [Aula 1.0 - Apresentação](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=386342)
+   - [Aula 2.0 - POO](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391983)
+   - [Aula 3.0 - Herança](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391984)
+   - [Aula 3.1- Herança/UML](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391985)
+   - [Aula 3.2 - JAVA](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=393705)
+   - [Aula 3.3 - Python](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=394855)
+   - [Aula 4.0 - Composição](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=394856)
+   - [Aula 5.0 - Polimorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=397733)
+   - [Aula 6.0 - Classes Abstratas](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398220)
+   - [Aula 7.0 - Interfaces](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398683)
+   - [Aula 8.0 - Tratamento Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398682)
+  
+**Vídeos:**
   - N/D.
-
-- **Complementares:**
+  
+**Complementares:**
   - N/D.
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Atividades</span></h2>
 
-- **Questionários:**
+**Questionários:**
   - [Primeiro Questionário](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=394750)
   - [Questionário Final](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398661)
-
-- **Lista de Exercícios:**
+  
+**Lista de Exercícios:**
   - [Códigos em Sala 3 - Herança](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398221)  -  [Link para envio](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=395408)
   - [Códigos em Sala 4 - Polimorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398511)  -  [Link para envio](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=395408)
   - [Códigos em Sala 5 - Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398684)  -  [Link para envio](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=395408)
