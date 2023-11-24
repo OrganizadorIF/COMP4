@@ -9,23 +9,13 @@ seo:
 ---
 
 <h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
-<h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
+<h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h
 
-{:.no_toc}
-
-# Tópicos
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<center># Sobre</center>
+<h2 align="center"><span style="font-weight: bold; margin-bottom: 10px;">Sobre</span></h2>
 
 O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
 
-# <center>Seções</center>
+<h2 align="center"><span style="font-weight: bold; margin-bottom: 10px;">Seções</span></h2>
 
 O site é dividido em seções diferentes:
 
@@ -38,7 +28,7 @@ O site é dividido em seções diferentes:
 - "**PPC**":
 - "**Feedback**":
 
-# Projeto {style=text-align:center}
+<h2 align="center"><span style="font-weight: bold; margin-bottom: 10px;">Projeto</span></h2>
 
 O site **Organizador do IF** foi desenvolvido como parte da disciplina "Educação Empreendedora e Inovação IV" no 4º período do curso "Ciência da Computação".
 
