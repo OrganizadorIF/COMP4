@@ -9,7 +9,7 @@ seo:
 ---
 
 <h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
-<h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h>
+<h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
 
 <h2 align="center"><span style="font-weight: bold; margin-bottom: 10px;">Sobre</span></h2>
 
