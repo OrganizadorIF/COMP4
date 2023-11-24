@@ -112,7 +112,10 @@ public class ExemploPolimorfismo {
 ```
 
 <h2 style="color: black; margin-bottom: 20px; margin-top: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
-
+  
+**Vídeos:**
+  - N/D.
+  
 **PDFs/Slides:**
    - [Aula 1.0 - Apresentação](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=386342)
    - [Aula 2.0 - POO](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391983)
@@ -125,9 +128,6 @@ public class ExemploPolimorfismo {
    - [Aula 6.0 - Classes Abstratas](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398220)
    - [Aula 7.0 - Interfaces](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398683)
    - [Aula 8.0 - Tratamento Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398682)
-  
-**Vídeos:**
-  - N/D.
   
 **Complementares:**
   - N/D.
