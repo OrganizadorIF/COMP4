@@ -8,7 +8,7 @@ seo:
   name: Organizador do IF
 ---
 
-<img src="https://portal.ifsuldeminas.edu.br/images/PDFs/comunicacao/logotipos/muzambinho/muzambinho-ver.png" alt="Logo IF Muzambinho" style="width:500px;height:500px; margin: auto;">
+<img src="https://portal.ifsuldeminas.edu.br/images/PDFs/comunicacao/logotipos/muzambinho/muzambinho-ver.png" alt="Logo IF Muzambinho" style="width:400px;height:500px; margin-left: auto; margin-right: auto; display: block;">
 
 <h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
 <h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
