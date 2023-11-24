@@ -21,7 +21,7 @@ nav_order: 4
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Herança:</b> Conceito que permite que uma classe (chamada de classe derivada ou subclasse) herde atributos e métodos de outra classe (chamada de classe base ou superclasse). Isso permite a criação de hierarquias e reutilização de código, onde a classe derivada pode estender ou modificar o comportamento da classe base, promovendo uma relação de especialização e generalização entre as classes.</div>
 
-Exemplo (Java):
+Exemplo de Herança (Java):
 
 ```java
 // Class pai
@@ -42,6 +42,8 @@ public class Moto extends Veiculo {
 ```
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Interface:</b> São como contratos, definindo um conjunto de métodos que uma classe deve implementar se prometer seguir essa interface. Elas não contêm implementações de métodos, apenas suas assinaturas, oferecendo um padrão para comportamentos. Classes podem implementar múltiplas interfaces, permitindo a aplicação de comportamentos diferentes sem herança múltipla.</div>
+
+Exemplo de Interface (Java):
 
 ```java
 // Definição da interface
