@@ -33,7 +33,7 @@ nav_order: 1
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Formas Normais</span></h3>
 
-<img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/normalizacao.png" alt="Formas Normais" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
+<img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/normalizacao.png" alt="Formas Normais" style="width: 95%; margin-left: auto; margin-right: auto; display: block;">
 
 <h2 style="color: black; margin-bottom: 20px; margin-top: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
 
