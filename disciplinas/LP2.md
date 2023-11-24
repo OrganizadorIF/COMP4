@@ -72,8 +72,7 @@ public class ExemploInterface {
         meuAnimal.fazerSom(); // Saída: "Au au!"
     }
 }
-```
-</div>
+```</div></div>
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Polimorfismo:</b> Conceito que permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma classe comum, podendo responder de forma distinta a chamadas de métodos iguais. Isso é alcançado por meio de herança e interfaces.</div>
 
