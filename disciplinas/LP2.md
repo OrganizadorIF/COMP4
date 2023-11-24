@@ -49,17 +49,6 @@ public class Moto extends Veiculo {
   background-color: #99ceff;
 }
 
-.collapsible::before {
-  content: "\02795";
-  font-size: 13px;
-  position: relative;
-  margin-right: 10px;
-}
-
-.active::before {
-  content: "\02796";
-}
-
 .content {
   display: none;
 }
@@ -68,8 +57,9 @@ public class Moto extends Veiculo {
 
 <button class="collapse">Exemplo de Interface (Java):</button>
 <div class="content">
-   <div class="content" style = "margin-left: 50px;">
+   <div class="content">
       
+      ```java
       // Definição da interface
       interface Animal {
           void fazerSom();
@@ -89,7 +79,7 @@ public class Moto extends Veiculo {
               meuAnimal.fazerSom(); // Saída: "Au au!"
           }
       }
-      
+      ```
    </div>
 </div>
 
