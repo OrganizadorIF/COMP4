@@ -15,7 +15,7 @@ seo:
 
 <h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Sobre</h2>
 
-O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
+<div style="text-align: justify">O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização.</div>
 
 <h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Seções</h2>
 
@@ -23,8 +23,8 @@ O site é dividido em seções diferentes:
 
 - "**Notícias**" é voltada para divulgações de informações relacionadas ao período do curso em questão.
 - "**Disciplinas**" apresenta as informações mais importantes de cada disciplina do período.
-- "**Agenda**" informa ao usuário quais são as próximas provas e atividades junto com suas respectivas datas.
-- "**Horários**" apresenta uma tabela contendo todos os horários semanais das disciplinas do período.
+- "**Agenda**" informa ao usuário quais são as próximas provas e atividades.
+- "**Horários**" apresenta uma tabela contendo todos os horários semanais das disciplinas.
 - "**Contatos**" mostra as principais informações dos(as) coordenadores(as) e professores(as).
 - "**Calendário**" exibe o calendário acadêmico do IFSULDEMINAS - Câmpus Muzambinho.
 - "**PPC**" é destinada a apresentar o documento Projeto Pedagógico de Curso (PPC).
@@ -32,7 +32,7 @@ O site é dividido em seções diferentes:
 
 <h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Projeto</h2>
 
-<div style="text-align: justify">O <b>Organizador do IF</b> foi desenvolvido durante o <u>4º período</u> do curso "<b>Ciência da Computação</b>" como projeto da disciplina "<b>Educação Empreendedora e Inovação IV</b>", sendo baseado nos temas "Just The Class" e "Just The Docs".</div>
+<div style="text-align: justify">O <b>Organizador do IF</b> foi desenvolvido durante o <u>4º período</u> do curso "<b>Ciência da Computação</b>" como projeto da disciplina "<b>Educação Empreendedora e Inovação IV</b>", sendo baseado nos temas "<a href="https://kevinl.info/just-the-class/">Just the Class<a>" e "<a href="https://just-the-docs.com/">Just the Docs</a>".</div>
 
 **Orientador:**  
   - Paulo César dos Santos
