@@ -23,7 +23,7 @@ nav_order: 4
 
 Exemplo:
 
-'''
+```js
 public class Veiculo { 
    public String modelo; 
    public String marca;
@@ -36,7 +36,7 @@ public class Carro extends Veiculo {
 public class Moto extends Veiculo {
    public int bau_carga;
 }
-'''
+```
 
 <h2 style="color: black;"> <span style='font-weight: bold; margin-bottom: 20px;'>Materiais de Estudo</span></h2>
 
