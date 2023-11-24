@@ -19,11 +19,11 @@ nav_order: 4
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Conceitos Importantes</span></h2>
 
-<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Herança</span></h3>
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'><u>Herança</u></span></h3>
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Herança:</b> Conceito que permite que uma classe (chamada de classe derivada ou subclasse) herde atributos e métodos de outra classe (chamada de classe base ou superclasse). Isso permite a criação de hierarquias e reutilização de código, onde a classe derivada pode estender ou modificar o comportamento da classe base, promovendo uma relação de especialização e generalização entre as classes.</div>
 
-<a align="center"><b><u>Exemplo de Herança (Java)</u></b></a>
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Herança (Java)</span></h3>
 
 ```java
 // Class pai
