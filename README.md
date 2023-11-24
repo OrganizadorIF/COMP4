@@ -13,7 +13,7 @@ seo:
 
 {:.no_toc}
 
-## Tópicos
+# Tópicos
 {: .no_toc .text-delta }
 
 1. TOC
