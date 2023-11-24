@@ -19,19 +19,19 @@ nav_order: 1
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Conceitos Importantes</span></h2>
 
-<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'><u>Modelo Entidade Relacionamento</u></span></h3>
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'><u>Modelo Entidade Relacionamento (MER)</u></span></h3>
 
 <div style="text-align: justify; margin-bottom: 10px;">O Modelo Entidade-Relacionamento (MER) é uma abordagem visual para representar e descrever o esquema de um banco de dados. Ele utiliza entidades para representar objetos do mundo real e seus atributos, além de relacionamentos para mostrar como essas entidades se conectam. Nesse modelo, entidades são representadas por retângulos e os relacionamentos entre elas são indicados por linhas, evidenciando a maneira como estão conectadas e como interagem. O MER é uma ferramenta fundamental no processo de projeto de banco de dados, pois facilita a compreensão e a organização das informações que serão armazenadas e gerenciadas pelo sistema.</div>
 
-<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Modelo ER</span></h3>
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de MER</span></h3>
 
 <img src="https://media.licdn.com/dms/image/C4D12AQEuyrWsUpOYCg/article-cover_image-shrink_600_2000/0/1535637196895?e=2147483647&v=beta&t=_fyL46_vjfRfAg4m5wGQDB1AD7CmFBso8TcL0qAXEgM" alt="Exemplo de Grafo" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
 
-<h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Ávores</u></span></h3>
+<h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Normalização de Dados</u></span></h3>
 
-<div style="text-align: justify; margin-bottom: 10px;"> tipo especial de grafo sem ciclos, formado por vértices conectados de modo que exista um único caminho entre quaisquer dois vértices. Ela é um grafo conexo, ou seja, todos os vértices estão interligados, e não possui ciclos, o que significa que não há caminhos fechados. Além disso, uma árvore com n vértices sempre terá n−1 arestas. As árvores são fundamentais na modelagem de hierarquias, estruturas de dados como árvores binárias, algoritmos de busca e na resolução de problemas em diversas áreas, como computação, biologia, redes e otimização.</div>
+<div style="text-align: justify; margin-bottom: 10px;">A Normalização de Dados é um processo no qual se organizam os dados em um banco de dados relacional de forma a minimizar a redundância e evitar anomalias na inserção, atualização ou exclusão de informações. Esse processo é dividido em etapas (1ª, 2ª, 3ª, entre outras formas normais) que visam estruturar as tabelas de um banco de dados de maneira mais eficiente, reduzindo a duplicação de informações e garantindo a integridade dos dados. Isso é alcançado ao eliminar dependências não triviais entre os atributos, tornando o banco de dados mais flexível, eficiente e menos propenso a erros ou inconsistências.</div>
 
-<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Árvore</span></h3>
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Formas Normais</span></h3>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tree_graph.svg/1200px-Tree_graph.svg.png" alt="Exemplo de Árvore" style="width: 60%; margin-left: auto; margin-right: auto; display: block;">
 
