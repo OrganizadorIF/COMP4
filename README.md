@@ -8,7 +8,7 @@ seo:
   name: Organizador do IF
 ---
 
-<img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/ifmuzlogo.png" alt="Logo IF Muzambinho" style="width:400px;height:500px; margin-left: auto; margin-right: auto; display: block;">
+<img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/ifmuzlogo.png" alt="Logo IF Muzambinho" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
 
 <h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
 <h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
