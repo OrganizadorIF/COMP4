@@ -9,13 +9,13 @@ seo:
 ---
 
 <h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
-<h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
+<h1 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h1>
 
 # <center>**Sobre**</center>
 
 O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
 
-<h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Seções</h2>
+<h1 align="center" style="margin-bottom: 20px; font-weight: bold;">Seções</h1>
 
 O site é dividido em seções diferentes:
 
