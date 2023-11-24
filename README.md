@@ -21,19 +21,24 @@ seo:
 
 ---
 
-## <div align="center">Sobre</div>
+# <center>Sobre<center>
 
 O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
 
-## <center>Seções</center>
+# <center>Seções</center>
 
 O site é dividido em seções diferentes:
 
 - "**Notícias**" é voltada para divulgações de informações relacionadas ao período do curso em questão.
 - "**Disciplinas**" apresenta as informações mais importantes de cada disciplina do período.
-- **
+- "**Agenda**":
+- "**Horários**":
+- "**Contatos**":
+- "**Calendário**":
+- "**PPC**":
+- "**Feedback**":
 
-## Projeto
+# <center>Projeto</center>
 
 O site **Organizador do IF** foi desenvolvido como parte da disciplina "Educação Empreendedora e Inovação IV" no 4º período do curso "Ciência da Computação".
 
