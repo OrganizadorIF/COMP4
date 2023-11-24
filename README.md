@@ -11,11 +11,11 @@ seo:
 <h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
 <h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
 
-<h2 align="center"><span style="font-weight: bold; margin-bottom: 10px;">Sobre</span></h2>
+# <center>**Sobre**</center>
 
 O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
 
-# <center>Seções</center>
+# <center>**Seções**</center>
 
 O site é dividido em seções diferentes:
 
@@ -28,11 +28,13 @@ O site é dividido em seções diferentes:
 - "**PPC**":
 - "**Feedback**":
 
-<h2 align="center"><span style="font-weight: bold; margin-bottom: 10px;">Projeto</span></h2>
+# <center>**Projeto**</center>
 
-O site **Organizador do IF** foi desenvolvido como parte da disciplina "Educação Empreendedora e Inovação IV" no 4º período do curso "Ciência da Computação".
+O site **Organizador do IF** foi desenvolvido como parte da disciplina "**Educação Empreendedora e Inovação IV**" no 4º período do curso "**Ciência da Computação**".
 
-**Orientador:** Paulo César dos Santos
+**Orientador:**  
+
+Paulo César dos Santos
 
 **Integrantes do grupo:**
 
