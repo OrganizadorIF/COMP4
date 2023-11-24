@@ -15,7 +15,7 @@ seo:
 
 O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
 
-# **<center>Seções</center>**
+<h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Seções</h2>
 
 O site é dividido em seções diferentes:
 
