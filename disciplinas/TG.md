@@ -29,7 +29,7 @@ nav_order: 3
 
 <h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Ávores</u></span></h3>
 
-<div style="text-align: justify; margin-bottom: 10px;"> tipo especial de grafo sem ciclos, formado por vértices conectados de modo que exista um único caminho entre quaisquer dois vértices. Ela é um grafo conexo, ou seja, todos os vértices estão interligados, e não possui ciclos, o que significa que não há caminhos fechados. Além disso, uma árvore com n vértices sempre terá n−1 arestas. As árvores são fundamentais na modelagem de hierarquias, estruturas de dados como árvores binárias, algoritmos de busca e na resolução de problemas em diversas áreas, como computação, biologia, redes e otimização.</div>
+<div style="text-align: justify; margin-bottom: 10px;">Tipo especial de grafo sem ciclos, formado por vértices conectados de modo que exista um único caminho entre quaisquer dois vértices. Ela é um grafo conexo, ou seja, todos os vértices estão interligados, e não possui ciclos, o que significa que não há caminhos fechados. Além disso, uma árvore com n vértices sempre terá n−1 arestas. As árvores são fundamentais na modelagem de hierarquias, estruturas de dados como árvores binárias, algoritmos de busca e na resolução de problemas em diversas áreas, como computação, biologia, redes e otimização.</div>
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de Árvore</span></h3>
 
