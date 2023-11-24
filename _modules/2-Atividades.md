@@ -27,11 +27,11 @@ title: Atividades
 **03/12**
 : **LPII**{: .label .label-blue } Projeto Final
   : <span class="fs-3">[**Prazo:** 23:59 **|** **Valor:** 2 pontos](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398685){: .btn }</span>
-: > Resolva os exercícios e anexe os dados na plataforma.
+: > Resolva os exercícios referentes ao documento "[Atividade2.pdf](https://presencial.muz.ifsuldeminas.edu.br/pluginfile.php/462889/mod_assign/introattachment/0/Atividade2.pdf?forcedownload=1)".
 
 **04/12**
 : **IHC**{: .label .label-pink } Inspeção de Usabilidade
   : <span class="fs-3">[**Prazo:** 23:00 **|** **Valor:** 5 pontos](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398669){: .btn }</span>
-: > Realizar uma inspeção de usabilidade de um site de sua escolha.
-: > <details><summary>Ver mais detalhes</summary><ul><li style="margin-top: 8px;">Acesse o <a href = "https://portal.ifsuldeminas.edu.br/index.php">documento compartilhado</a> a seguir e selecione uma aplicação para testar.</li><li>Em seguida realize a inspeção de usabilidade utilizando a extensão Chrome UX Check.</li><li>A atividade deve ser realizado em trio, e portanto, cada aluno do trio deve fazer sua avaliação. Ao final os 3 membros do grupo deverão gerar um relatório único da inspeção de usabilidade realizada.</li><li><b>A tarefa é avaliativa (5,0 pontos), e deve ser realizada em grupo de 3 alunos. Somente 1 dos 3 alunos do grupo deve enviar a tarefa. Informar o nomes dos 3 alunos do grupo na tarefa enviada.</b></li></ul></details>
+: > Realizar uma inspeção de usabilidade direcionada a um dos sites propostos (Portal do IF Muz, Portal do IFSULDEMINAS ou SUAP).
+: > <details><summary>Ver mais detalhes</summary><ul><li style="margin-top: 8px;">Acesse o <a href = "https://docs.google.com/document/d/19IsPcrsLPfCHwawK2HH3vIm8NqOeFktDSdaG1eJOCj8/edit">documento compartilhado</a> a seguir e selecione uma aplicação para testar.</li><li>Em seguida realize a inspeção de usabilidade utilizando a extensão Chrome UX Check.</li><li>A atividade deve ser realizado em trio, e portanto, cada aluno do trio deve fazer sua avaliação. Ao final os 3 membros do grupo deverão gerar um relatório único da inspeção de usabilidade realizada.</li><li><b>OBS:</b>A tarefa é avaliativa (5,0 pontos), e deve ser realizada em grupo de 3 alunos. Somente 1 dos 3 alunos do grupo deve enviar a tarefa. Informar o nomes dos 3 alunos do grupo na tarefa enviada.</li></ul></details>
 
