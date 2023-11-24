@@ -3,7 +3,7 @@ title: Atividades
 ---
 
 **28/11**
-: **LP2**{: .label .label-blue } Questionário Final
+: **LPII**{: .label .label-blue } Questionário Final
   : <span class="fs-3">[**Prazo:** 23:59 **|** **Valor:** 1 ponto](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398468){: .btn }</span>
 : > Resolver o questionário baseado nos últimos tópicos vistos em aula (Herança, Polimorfismo, Interfaces, Abstração e Tratamento de Exceções).
 
@@ -23,3 +23,15 @@ title: Atividades
 : **BDI**{: .label .label-purple } Projeto - Versão Final
   : <span class="fs-3">[**Prazo:** 23:55 **|** **Valor:** 2 pontos](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=399147){: .btn }</span>
 : > Depois de concluída a modelagem, faça a criação do banco de dados e inicie a população de dados nessas tabelas, usando comandos DDL (para criar as tabelas) e comandos DML (para popular as tabelas). Depois, utilize comandos de dados para visualizar o conteúdo criado (SELECT). Por fim, salve também os comandos que utilizou para essa atividade em um arquivo de extensão .sql (Scripts).
+
+**03/12**
+: **LPII**{: .label .label-blue } Projeto Final
+  : <span class="fs-3">[**Prazo:** 23:59 **|** **Valor:** 2 pontos](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398685){: .btn }</span>
+: > Resolva os exercícios e anexe os dados na plataforma.
+
+**04/12**
+: **IHC**{: .label .label-pink } Inspeção de Usabilidade
+  : <span class="fs-3">[**Prazo:** 23:00 **|** **Valor:** 5 pontos](https://presencial.muz.ifsuldeminas.edu.br/mod/assign/view.php?id=398669){: .btn }</span>
+: > Realizar uma inspeção de usabilidade de um site de sua escolha.
+: > <details><summary>Ver mais detalhes</summary><ul><li style="margin-top: 8px;">Acesse o <a href = "https://portal.ifsuldeminas.edu.br/index.php">documento compartilhado</a> a seguir e selecione uma aplicação para testar.</li><li>Em seguida realize a inspeção de usabilidade utilizando a extensão Chrome UX Check.</li><li>A atividade deve ser realizado em trio, e portanto, cada aluno do trio deve fazer sua avaliação. Ao final os 3 membros do grupo deverão gerar um relatório único da inspeção de usabilidade realizada.</li><li><b>A tarefa é avaliativa (5,0 pontos), e deve ser realizada em grupo de 3 alunos. Somente 1 dos 3 alunos do grupo deve enviar a tarefa. Informar o nomes dos 3 alunos do grupo na tarefa enviada.</b></li></ul></details>
+
