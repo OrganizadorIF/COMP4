@@ -2,7 +2,7 @@
 layout: default
 title: Teoria dos Grafos
 parent: Disciplinas
-nav_order: 5
+nav_order: 3
 ---
 
 <h1 align="center"><span style='font-weight: bold;'>Teoria dos Grafos</span></h1>
