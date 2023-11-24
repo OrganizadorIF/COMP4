@@ -21,7 +21,7 @@ seo:
 
 ---
 
-# <center>Sobre<center>
+# <center>Sobre</center>
 
 O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
 
