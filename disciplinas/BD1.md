@@ -37,35 +37,29 @@ nav_order: 1
 
 <h2 style="color: black; margin-bottom: 20px; margin-top: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
 
-**PDFs/Slides:**
-   - [Aula 1.0 - Apresentação](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=386342)
-   - [Aula 2.0 - POO](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391983)
-   - [Aula 3.0 - Herança](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391984)
-   - [Aula 3.1- Herança/UML](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391985)
-   - [Aula 3.2 - JAVA](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=393705)
-   - [Aula 3.3 - Python](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=394855)
-   - [Aula 4.0 - Composição](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=394856)
-   - [Aula 5.0 - Polimorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=397733)
-   - [Aula 6.0 - Classes Abstratas](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398220)
-   - [Aula 7.0 - Interfaces](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398683)
-   - [Aula 8.0 - Tratamento Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398682)
-  
 **Vídeos:**
-  - N/D.
+   - [Vídeo Aula 01 - Modelos de Dados](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390274)
+   - [Vídeo Aula 02 - Modelo Entidade Relacionamento](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390275)
+   - [Vídeo Aula 03 - Cardinalidade e Relacionamento](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390302)
+   - []()
+   - []()
+
+**PDFs/Slides:**
+   - [Arquivo - Aula 1.2 Fundamentos Modelagem - GERAL](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390276)
+   - [Introdução ao SQL - Resumo Geral](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390352)
+   - [Introdução ao SQL - Exemplo Prático - CADFUN](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390354)
+   - [Operadores](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390402)
   
 **Complementares:**
-  - N/D.
+   - [Vídeo Aula - Download e Instalação MySQL e Workbench - Windows 10](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390279)
+   - [Vídeo Aula - Download e Instalação MySQL e Workbench - Windows 7](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390280)
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Atividades</span></h2>
-
-**Questionários:**
-  - [Primeiro Questionário](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=394750)
-  - [Questionário Final](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398661)
   
 **Lista de Exercícios:**
-  - [Códigos em Sala 3 - Herança](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398221)
-  - [Códigos em Sala 4 - Polimorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398511)
-  - [Códigos em Sala 5 - Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398684)
+  - [Atividade Prática - Modelagem Cozinheiro](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390286)
+  - [Atividade Prática - Modelagem Imobiliária](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390295)
+  - [Atividade Prática - Modelagem Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390311)
 
 <h2 style="color: black;  margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Colab</span></h2>
 
