@@ -67,6 +67,42 @@ public class ExemploInterface {
 }
 ```
 
+<div style="text-align: justify; margin-bottom: 20px;"><b>Polimorfismo:</b> Conceito que permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma classe comum, podendo responder de forma distinta a chamadas de métodos iguais. Isso é alcançado por meio de herança e interfaces.</div>
+
+```java
+// Definição de uma classe base comum
+class Animal {
+    void fazerSom() {
+        System.out.println("Som genérico");
+    }
+}
+
+// Subclasse 1 que estende Animal
+class Cachorro extends Animal {
+    void fazerSom() {
+        System.out.println("Au au!");
+    }
+}
+
+// Subclasse 2 que estende Animal
+class Gato extends Animal {
+    void fazerSom() {
+        System.out.println("Miau!");
+    }
+}
+
+// Usando polimorfismo
+public class ExemploPolimorfismo {
+    public static void main(String[] args) {
+        Animal meuAnimal1 = new Cachorro();
+        Animal meuAnimal2 = new Gato();
+
+        meuAnimal1.fazerSom(); // Saída: "Au au!"
+        meuAnimal2.fazerSom(); // Saída: "Miau!"
+    }
+}
+```
+
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
 
 - PDFs/Slides:
