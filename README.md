@@ -32,7 +32,7 @@ O site é dividido em seções diferentes:
 
 <h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Projeto</h2>
 
-<div style="text-align: center">O **Organizador do IF** foi desenvolvido durante o <u>4º período</u> do curso "**Ciência da Computação**" como projeto da disciplina "**Educação Empreendedora e Inovação IV**", sendo baseado nos temas "Just The Class" e "Just The Docs".</div>
+<div style="text-align: justify">O <b>Organizador do IF</b> foi desenvolvido durante o <u>4º período</u> do curso "<b>Ciência da Computação</b>" como projeto da disciplina "<b>Educação Empreendedora e Inovação IV</b>", sendo baseado nos temas "Just The Class" e "Just The Docs".</div>
 
 **Orientador:**  
   - Paulo César dos Santos
