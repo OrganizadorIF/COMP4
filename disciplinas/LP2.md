@@ -2,7 +2,7 @@
 layout: default
 title: Linguagens de Programação II
 parent: Disciplinas
-nav_order: 1
+nav_order: 3
 ---
 
 <h1 align="center"> <span style='font-weight: bold;'>Linguagens de Programação II</span></h1>
