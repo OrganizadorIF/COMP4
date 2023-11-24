@@ -38,34 +38,55 @@ nav_order: 3
 <h2 style="color: black; margin-bottom: 20px; margin-top: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
 
 **PDFs/Slides:**
-   - [Aula 1.0 - Apresentação](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=386342)
-   - [Aula 2.0 - POO](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391983)
-   - [Aula 3.0 - Herança](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391984)
-   - [Aula 3.1- Herança/UML](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=391985)
-   - [Aula 3.2 - JAVA](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=393705)
-   - [Aula 3.3 - Python](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=394855)
-   - [Aula 4.0 - Composição](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=394856)
-   - [Aula 5.0 - Polimorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=397733)
-   - [Aula 6.0 - Classes Abstratas](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398220)
-   - [Aula 7.0 - Interfaces](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398683)
-   - [Aula 8.0 - Tratamento Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398682)
+   - [Aula 01 – Introdução e Propriedades](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384273)
+   - [Aula 02 – Classes de Grafos](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384276)
+   - [Aula 03 – Passeios, trilhas e caminhos](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384279)
+   - [Aula 04 – Representações computacionais de grafos](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384292)
+   - [Aula 05 – Manipulação de Grafos com Python e Networx](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384294)
+   - [Aula 06 – Isomorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384297)
+   - [Aula 07 – Conectividade em Grafos e Métricas](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384299)
+   - [Aula 08 – Passeios em Grafos Conexos, Random Walks e Cadeias de Markov –Parte 01](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384310)
+   - [Aula 09 – Passeios em Grafos Conexos, Random Walks e Cadeias de Markov – Parte 02](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384312)
+   - [Aula 10 – Page Rank](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384316)
+   - [Aula 11 – Árvores](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384325)
+   - [Aula 12 – Árvores Spanning e código de Prüfer](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384327)
+   - [Aula 13 – Algoritmo de Kruskal](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384329)
+   - [Aula 15 - Busca em Largura](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384345)
+   - [Aula 16 – Busca em Largura – Algoritmo Backtracking](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384347)
+   - [Aula 17 – Busca em Profundidade](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384350)
+   - [Aula 18 – Ordenação Topológica](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384352)
+   - [Aula 19 - Algoritmo de Dijkstra](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384361)
+   - [Aula 21- Heurística AStar](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384364)
   
 **Vídeos:**
-  - N/D.
+   - [Aula 01 – Introdução e Propriedades](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384272)
+   - [Aula 02 – Classes de Grafos](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384275)
+   - [Aula 03 – Passeios, trilhas e caminhos](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384278)
+   - [Aula 04 – Representações computacionais de grafos](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384291)
+   - [Aula 05 – Manipulação de Grafos com Python e Networx](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384294)
+   - [Aula 06 – Isomorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384296)
+   - [Aula 07 – Conectividade em Grafos e Métricas](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384298)
+   - [Aula 08 – Passeios em Grafos Conexos, Random Walks e Cadeias de Markov –Parte 01](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384309)
+   - [Aula 09 – Passeios em Grafos Conexos, Random Walks e Cadeias de Markov – Parte 02](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384311)
+   - [Aula 10 – Page Rank](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384315)
+   - [Aula 11 – Árvores](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384326)
+   - [Aula 12 – Árvores Spanning e código de Prüfer](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384328)
+   - [Aula 13 – Algoritmo de Kruskal](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384330)
+   - [Aula 15 - Busca em Largura](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384346)
+   - [Aula 16 – Busca em Largura – Algoritmo Backtracking](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384348)
+   - [Aula 17 – Busca em Profundidade](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384351)
+   - [Aula 18 – Ordenação Topológica](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384353)
+   - [Aula 19 - Algoritmo de Dijkstra](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384362)
+   - [Aula 21- Heurística AStar](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384365)
   
 **Complementares:**
-  - N/D.
+  - [Jure Leskovec](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=384274)
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Atividades</span></h2>
-
-**Questionários:**
-  - [Primeiro Questionário](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=394750)
-  - [Questionário Final](https://presencial.muz.ifsuldeminas.edu.br/mod/quiz/view.php?id=398661)
   
 **Lista de Exercícios:**
-  - [Códigos em Sala 3 - Herança](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398221)
-  - [Códigos em Sala 4 - Polimorfismo](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398511)
-  - [Códigos em Sala 5 - Exceções](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=398684)
+  - [Atividade 1](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=384281)
+  - [Atividade 2](https://presencial.muz.ifsuldeminas.edu.br/pluginfile.php/446832/mod_assign/introattachment/0/Atividade%20de%20Treino%202.pdf?forcedownload=1)
 
 <h2 style="color: black;  margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Colab</span></h2>
 
