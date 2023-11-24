@@ -9,11 +9,11 @@ seo:
 ---
 
 <h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
-<h2 align="center" style="margin-bottom: 70px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
+<h2 align="center" style="margin-bottom: 60px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
 
 {:.no_toc}
 
-## Tópicos
+# Tópicos
 {: .no_toc .text-delta }
 
 1. TOC
@@ -21,7 +21,7 @@ seo:
 
 ---
 
-## Sobre
+<h2 align="center">Sobre</h2>
 
 O **Organizador do IF** se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização 
 
