@@ -43,7 +43,15 @@ public class Moto extends Veiculo {
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Interface:</b> São como contratos, definindo um conjunto de métodos que uma classe deve implementar se prometer seguir essa interface. Elas não contêm implementações de métodos, apenas suas assinaturas, oferecendo um padrão para comportamentos. Classes podem implementar múltiplas interfaces, permitindo a aplicação de comportamentos diferentes sem herança múltipla.</div>
 
-<details><summary>Exemplo de Interface (Java):</summary><div>
+<style>
+.content {
+  padding-left: 20px;
+  display: none;
+}
+</style>
+
+<button type="button" name="button" class="collapsible btn">Exemplo de Interface (Java):</button>
+<div class="content"><div class="content" style = "margin-left: 50px;">
 ```java
 // Definição da interface
 interface Animal {
@@ -64,7 +72,8 @@ public class ExemploInterface {
         meuAnimal.fazerSom(); // Saída: "Au au!"
     }
 }
-```</div></details>
+```
+</div>
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Polimorfismo:</b> Conceito que permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma classe comum, podendo responder de forma distinta a chamadas de métodos iguais. Isso é alcançado por meio de herança e interfaces.</div>
 
@@ -139,3 +148,20 @@ public class ExemploPolimorfismo {
 Seção voltada para a colaboração entre os alunos.
 
 Links abertos com resumos, anotações e materiais de revisão.
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
+      });
+    }
+</script>
