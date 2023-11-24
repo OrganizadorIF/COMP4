@@ -43,8 +43,7 @@ public class Moto extends Veiculo {
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Interface:</b> São como contratos, definindo um conjunto de métodos que uma classe deve implementar se prometer seguir essa interface. Elas não contêm implementações de métodos, apenas suas assinaturas, oferecendo um padrão para comportamentos. Classes podem implementar múltiplas interfaces, permitindo a aplicação de comportamentos diferentes sem herança múltipla.</div>
 
-<details><summary>Exemplo de Interface (Java):</summary>
-```java
+<details><summary>Exemplo de Interface (Java):</summary>```java
 // Definição da interface
 interface Animal {
     void fazerSom();
@@ -64,8 +63,7 @@ public class ExemploInterface {
         meuAnimal.fazerSom(); // Saída: "Au au!"
     }
 }
-```
-</details>
+```</details>
 
 <div style="text-align: justify; margin-bottom: 20px;"><b>Polimorfismo:</b> Conceito que permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma classe comum, podendo responder de forma distinta a chamadas de métodos iguais. Isso é alcançado por meio de herança e interfaces.</div>
 
