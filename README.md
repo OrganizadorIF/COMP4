@@ -23,12 +23,12 @@ O site é dividido em seções diferentes:
 
 - "**Notícias**" é voltada para divulgações de informações relacionadas ao período do curso em questão.
 - "**Disciplinas**" apresenta as informações mais importantes de cada disciplina do período.
-- "**Agenda**":
-- "**Horários**":
-- "**Contatos**":
-- "**Calendário**":
-- "**PPC**":
-- "**Feedback**":
+- "**Agenda**" informa ao usuário quais são as próximas provas e atividades junto com suas respectivas datas.
+- "**Horários**" apresenta uma tabela contendo todos os horários semanais das disciplinas do período.
+- "**Contatos**" mostra as principais informações dos(as) coordenadores(as) e professores(as).
+- "**Calendário**" exibe o calendário acadêmico do IFSULDEMINAS - Câmpus Muzambinho.
+- "**PPC**" é destinada a apresentar o documento Projeto Pedagógico de Curso (PPC).
+- "**Feedback**" é reservada para o usuário relatar sua experiência com o site.
 
 <h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Projeto</h2>
 
