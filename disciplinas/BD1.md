@@ -25,7 +25,7 @@ nav_order: 1
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de MER</span></h3>
 
-<img src="https://media.licdn.com/dms/image/C4D12AQEuyrWsUpOYCg/article-cover_image-shrink_600_2000/0/1535637196895?e=2147483647&v=beta&t=_fyL46_vjfRfAg4m5wGQDB1AD7CmFBso8TcL0qAXEgM" alt="Exemplo de Grafo" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
+<img src="https://media.licdn.com/dms/image/C4D12AQEuyrWsUpOYCg/article-cover_image-shrink_600_2000/0/1535637196895?e=2147483647&v=beta&t=_fyL46_vjfRfAg4m5wGQDB1AD7CmFBso8TcL0qAXEgM" alt="Exemplo de MER" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
 
 <h3 style="color: black; margin-bottom: 10px; margin-top: 20px;" align="center"><span style='font-weight: bold;'><u>Normalização de Dados</u></span></h3>
 
@@ -33,7 +33,7 @@ nav_order: 1
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Formas Normais</span></h3>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tree_graph.svg/1200px-Tree_graph.svg.png" alt="Exemplo de Árvore" style="width: 60%; margin-left: auto; margin-right: auto; display: block;">
+<img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/normalizacao.png" alt="Formas Normais" style="width: 60%; margin-left: auto; margin-right: auto; display: block;">
 
 <h2 style="color: black; margin-bottom: 20px; margin-top: 20px;" align="center"><span style='font-weight: bold;'>Materiais de Estudo</span></h2>
 
