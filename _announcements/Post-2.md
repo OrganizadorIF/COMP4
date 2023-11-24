@@ -1,6 +1,6 @@
 ---
 title: Aula de revisão de AOC para a segunda prova.
-week: 0
+week: 2
 date: 2023-11-22
 ---
 
